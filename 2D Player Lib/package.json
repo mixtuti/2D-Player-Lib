@@ -1,0 +1,8 @@
+{
+    "name": "jp.mixtuti.2d_player_lib",
+    "author": "mixtuti",
+    "version": "0.0.1",
+    "displayName": "2D Player Lib",
+    "description": "A system that creates the basis for player movement in 2D",
+    "unity": "2022.3"
+}
