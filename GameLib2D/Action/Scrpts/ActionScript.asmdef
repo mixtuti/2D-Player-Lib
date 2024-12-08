@@ -1,0 +1,17 @@
+{
+    "name": "ActionScript",
+    "rootNamespace": "",
+    "references": [
+        "GUID:ab416af3816e3564e8076a2ed6b5cb69",
+        "GUID:7174aa5ad71aa3848bf22bf4b5f18a4c"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

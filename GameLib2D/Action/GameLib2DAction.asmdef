@@ -1,0 +1,16 @@
+{
+    "name": "GameLib2DAction",
+    "rootNamespace": "",
+    "references": [
+        "GUID:7174aa5ad71aa3848bf22bf4b5f18a4c"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
